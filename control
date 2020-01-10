@@ -1,0 +1,9 @@
+Package: null.leptos.haste
+Name: haste
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Upload data to hastebin from file or stdin
+Maintainer: Leptos <leptos.0.null@gmail.com>
+Author: Leptos <leptos.0.null@gmail.com>
+Section: System
+Tag: role::hacker
